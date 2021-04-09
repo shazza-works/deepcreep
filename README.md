@@ -1,8 +1,6 @@
 # deepcreep
 
-** Deep creep is an interrnet radio station crawler. **	
-
----- | ----
+**Deep creep is an interrnet radio station crawler.**	
 
 ## Help:
 -	Seed url or list will be checked and all links gathered to find out what they are.
@@ -38,3 +36,16 @@
 -	Accept: */*
 -	Connection: keep-alive
 -	From: pokin@yourmums.domain.com
+
+###Github
+Click:
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://discord.gg/CZ3jWT8Hpy)
+
+###Linux
+Click:
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>](https://en.wikipedia.org/wiki/X86-64)
+
+###Python3
+Click:
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>](https://docs.python.org/3/index.html)
+

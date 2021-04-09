@@ -37,15 +37,15 @@
 -	Connection: keep-alive
 -	From: pokin@yourmums.domain.com
 
-###Github
-Click:
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://discord.gg/CZ3jWT8Hpy)
+### Shazza-Works, Bogart Discord
+	Click:
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/CZ3jWT8Hpy)
 
-###Linux
-Click:
+### Linux
+	Click:
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>](https://en.wikipedia.org/wiki/X86-64)
 
-###Python3
-Click:
+### Python3 Doc's
+	Click:
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>](https://docs.python.org/3/index.html)
 

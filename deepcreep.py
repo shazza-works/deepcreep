@@ -46,6 +46,15 @@ def show_help():
 	\tMagenta = Backup progress to restore session.
 	\t\t(Note: If you have changed term colour this may not show).
 
+	Request:
+	\tGET / HTTP/1.1
+	\tHost: host:port
+	\tUser-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+	\tAccept-Encoding: gzip, deflate
+	\tAccept: */*
+	\tConnection: keep-alive
+	\tFrom: pokin@yourmums.domain.com
+
 	Credits:
 	\tShazza-Works - https://github.com/shazza-works
 	\t\t\t\t\t\t\t\t(like fuck he dose !)\n"""
@@ -225,4 +234,7 @@ def main():
 		print("\nmain exit")
 		sys.exit(1)
 
-main()
+if __name__ == "__main__":
+	main()
+
+#<EOF>#
